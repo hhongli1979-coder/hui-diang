@@ -1,0 +1,10 @@
+{
+  "name": "AMICA – Persone, Luoghi e Servizi nella tua Città",
+  "description": "AMICA: Scopri persone, incontri verificati, centri massaggi e annunci locali in Italia con ricerca intelligente e mappa.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
